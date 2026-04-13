@@ -1,3 +1,5 @@
+<!-- Last session: 2026-04-13 06:30 -->
+<!-- Last session: 2026-04-13 06:27 -->
 <!-- Context compacted at 2026-04-13 05:41 -->
 ## Pre-Compaction Context
 - Now commit, push, create v1.1.0 release with updated DMG, and update Homebrew tap:
